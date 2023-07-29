@@ -1,0 +1,11 @@
+go 1.19
+
+use (
+	.
+	./cmd
+	./migrations
+	./test
+	./workspace/delivery
+	./workspace/domain
+	./workspace/material
+)

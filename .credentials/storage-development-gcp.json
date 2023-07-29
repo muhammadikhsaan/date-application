@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zeerdas-project",
+  "private_key_id": "ced9e709f650d6f0066b6406569d213cf489c6b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDmWznflmXeUl22\nAR03eehxJFpmXm67CeXwW2cVLGZDucGR1jFTmvn499pm7YiymczAqegWjH/x6Wyz\nXD3oOmRGMXZEnMHNt6/fKnNL3TEwyyQSk7AfhGIV2XtQH8NQkeWAbWOkZc+lSWeH\nXyQiEbIzK4rL+Tzq8qFHoRwegX1hZ+0z+udXYP/N1Op7zy7ZQ1+fBkzuLzF33fRs\nDS00cPtrU8viGYlgIylA8VDk8yXb+5z2nWXb3ZOyxdfB8DqefLihh9zN3c3HhfhZ\nNkjQeIxZN1n08PwRyzlxloGf90bCp1QffkgvN6CpmakCRseHbbYGnHxSJXwJZDFV\n+LGMf22ZAgMBAAECggEAEeADWifECN/wWKa2ey8RC/KLt0Tdp9LpTmDxW1HCL8Ay\n1pu94SR2AE1PW8xT3rQTkOG+Wj2V0hJQdoySWzpovI+rA0D8wvddhN446yqjXgtt\nZamjMZbmu5ZQPNPyJobjvbb/U+r4lXVgPL9zwNcJsnHPB+vzv7GLNVE5qt5Wed/e\ndPKb5GDoOgzBdpCSOuFdrshFtm1vcyTV46XOui0552sXY/KrdpQk13OyhrjZVPHo\na+vcqRmrxJTdY8brjf2IgdODciS5/HGlSbFPJaVIojMToj6PahH+aKOwpLdd1HSO\nhzNEoCVKFwdgjjhLrKxW7I7JNGIUWszkLv+KQyrugQKBgQD3WZ4VyFnPLorIlx7J\nehNTGb9U6wwlBBihJu11YDEx+7b85lcrVuKz1uK2hZXnJc/z6RaJz5ccbRnMUOC4\n5PpOwkJuzV7UtJjvV1MGbriorx2/Nv6czNY4D72JRJaBDrBSg79UXpQEY0thUvr6\nDzQKBZzoq6SfRU3DiO8wYgItIQKBgQDuaXk+Pd3BZmHKieaLzukkmbeaXwyAu1a6\nd1o+YvaQfr1cyXekrLkTTGFPuTnaknfOHHAnB7PvZNm6nWtCJpcNgb1stdwEuAgo\nBkMp3nF40gInoA+JJR9EJoSP7tigqYzkX6BBFwrx6SedghlXxzTvY1m/CMa/Emcs\nfcq+XjP5eQKBgBdCqzYbMC7mjpCMfY2u2DBhZHfE3tCAURyef4ghMp8jr7Kaqqnd\nstX8qDdH2q/xA1xJmB//kJNQwzNOi8N3bP6JEBxBXeCc1yDy0lDxipX6Wc7IiisO\nrDp7aHSHKawbSIOJ9i0l879x4v3VAtsPIPKsUnQi6Ak+SDDSKMQhA1lhAoGAVO25\nxRRg1K5WE8KAIDm7D9C6eQF3ALy7rn0p5qN2Vg7wAge62Sy2WUuSNsYy98vJZeD3\nis/Rp2vzq+i79rqsgKFBC2LVV9D/BtMERfv5zCJzpg38usxAkRRvkJ5zCPidOhVe\njxFYUsjN1ewsfvp1vvlTVRwZQKOboVvGR35jYXECgYAXdqMGBK9hRCfvbdk14EY0\nW06lOn715hTnj55l5wGO/9z0VyZc89Nazi7KeMY+aB6dcq2TT9J9mMkEApM8jVbz\ni9nOQTeK3iRKxeTG7GV4KL2BeQU9Jgzvu/YE2GyXshIwLWZ2s7bXshNnhsxWaAqA\nA9pcZIxhbg6S66HMxsYuug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-development@zeerdas-project.iam.gserviceaccount.com",
+  "client_id": "114514409263790859525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-development%40zeerdas-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

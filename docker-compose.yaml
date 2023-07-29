@@ -1,0 +1,23 @@
+version: '3.1'
+
+services:
+  postgres:
+    image: postgres
+    container_name : pg.dealls
+    restart: always
+    ports:
+      - "5432:5432"
+    networks: 
+      - pensiel
+    environment:
+      POSTGRES_USER : development-user
+      POSTGRES_PASSWORD: userpassword
+      POSTGRES_DB : dealls
+    volumes:
+     - pgdata:/var/lib/postgresql/data
+
+networks:
+  pensiel:
+
+volumes:
+  pgdata:

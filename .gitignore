@@ -1,0 +1,14 @@
+logs
+temp
+
+.env.*
+!.env.example
+
+__debug_bin.exe
+
+tmp
+
+go.sum
+go.work.sum
+
+.account/*
