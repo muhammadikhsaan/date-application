@@ -26,13 +26,13 @@ func NewDelivery(uc *usecase.Service) Delivery {
 func (c *delivery) Router(r pensiel.Router) {
 	// GUEST
 	r.Group(func(r pensiel.Router) {
-		r.Use(middleware.Throttle)
+		// r.Use(middleware.Throttle)
 		r.Route("/auth", auth.NewHandler(c.uc).Router)
 	})
 
 	// USERS
 	r.Group(func(r pensiel.Router) {
-		r.Use(middleware.Throttle)
+		// r.Use(middleware.Throttle)
 		r.Use(middleware.Accessable)
 		r.Route("/interaction", interaction.NewHandler(c.uc).Router)
 		r.Route("/purchase", purchase.NewHandler(c.uc).Router)
