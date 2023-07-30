@@ -39,8 +39,8 @@ This service adopts a clean architecture that has been adjusted to support devel
   ### Functional
   - Authentication & Authorization
     - JWT Token
-    - Bearer Authentication
     - Basic Authentication
+    - Http Cookies
   ### Non Functional
   - 
 
